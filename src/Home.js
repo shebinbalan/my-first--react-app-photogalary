@@ -18,7 +18,7 @@ const Home = () => {
 
   return (
     <div className="home-container">
-      <h2>Image Carousel</h2>
+      <h2></h2>
       <div className="carousel-container">
         <Slider {...settings}>
           <div>

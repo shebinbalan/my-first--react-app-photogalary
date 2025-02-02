@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div style={{
       padding: '20px',
-      maxWidth: '800px',
+      maxWidth: '1000px',
       margin: '0 auto'
     }}>
       <h1 style={{ 
